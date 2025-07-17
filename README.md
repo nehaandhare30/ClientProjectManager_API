@@ -27,7 +27,7 @@ MySQL 5.7/8.0+
 git clone https://github.com/your-username/clientProjectManager_API.git
 cd clientProjectManager_API
 
-3. Create & Activate Virtual Environment
+2. Create & Activate Virtual Environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
