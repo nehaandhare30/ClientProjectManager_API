@@ -12,6 +12,7 @@ Admin interface for backend data control
 
 Scalable, modular architecture
 
+
 🛠 Tech Stack
 Python 3.10+
 
