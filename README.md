@@ -123,9 +123,8 @@ Content-Type: application/json
 
 ---
 
-<pre><code>
-
 ## Project Structure
+<pre><code>
 
 ```
 ClientProjectManager_API/
