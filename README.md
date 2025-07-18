@@ -125,8 +125,21 @@ Content-Type: application/json
 
 ## Project Structure
 
-ClientProjectManager_API/ ├── clientapp/                  # App for clients and projects │   ├── admin.py                # Admin interface configuration │   ├── models.py               # Database models │   ├── serializers.py          # DRF serializers │   ├── views.py                # API views │   ├── urls.py                 # App-level URL routing │   └── migrations/             # Django migrations ├── clientProjectManager_API/   # Main project config │   ├── settings.py             # Project settings (DB, apps, etc.) │   └── urls.py                 # Project-level URLs ├── manage.py                   # Django management CLI └── README.md                   # Project documentation
-
+ClientProjectManager_API/ 
+├── clientapp/
+│   ├── admin.py
+│   ├── models.py
+│   ├── serializers.py
+│   ├── views.py
+│   ├── urls.py
+│   └── migrations/
+│       └── init.py
+├── clientProjectManager_API/
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+├── manage.py
+└── README.md
 
 ---
 
