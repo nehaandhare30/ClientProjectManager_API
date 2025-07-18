@@ -124,7 +124,7 @@ Content-Type: application/json
 ---
 
 ## Project Structure
-
+'''
 ClientProjectManager_API/ 
 ├── clientapp/
 │   ├── admin.py
@@ -140,7 +140,7 @@ ClientProjectManager_API/
 │   └── wsgi.py
 ├── manage.py
 └── README.md
-
+'''
 ---
 
 ### License
