@@ -123,24 +123,30 @@ Content-Type: application/json
 
 ---
 
+<pre><code>
+
 ## Project Structure
-'''
-ClientProjectManager_API/ 
-├── clientapp/
-│   ├── admin.py
-│   ├── models.py
-│   ├── serializers.py
-│   ├── views.py
-│   ├── urls.py
-│   └── migrations/
-│       └── init.py
-├── clientProjectManager_API/
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-├── manage.py
-└── README.md
-'''
+
+```
+ClientProjectManager_API/
+├── clientapp/                  
+│   ├── admin.py                
+│   ├── models.py               
+│   ├── serializers.py          
+│   ├── views.py                
+│   ├── urls.py                 
+│   └── migrations/             
+│       └── __init__.py         
+├── clientProjectManager_API/   
+│   ├── settings.py             
+│   ├── urls.py                 
+│   └── wsgi.py                 
+├── manage.py                   
+└── README.md                   
+```
+
+</code></pre>
+
 ---
 
 ### License
